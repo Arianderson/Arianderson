@@ -4,7 +4,7 @@
 
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Html, Css, Php e Mysql
+- 🌱 Estudando Html, Css, Php, Mysql e python
 - 📫 Contate-me pelo email: ariandersonsena@gmail.com
 - 😄 Pronouns: ele/dele
 
