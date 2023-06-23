@@ -6,7 +6,7 @@
 - 🔭 Today I work with Backend PHP
 - 🌱 Studying Php, Mysql, laravel, Symfony, insomnia, CodeIgniter, Zend, Phalcon, CakePHP, Yii...
 - 📫 Contact me by email: ariandersonsena@gmail.com
-- 😄 Pronoun: He
+- 😄 Pronoun: he/him
 <div align="center">
   <a href="https://github.com/arianderson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arianderson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
